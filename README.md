@@ -43,16 +43,16 @@ No external data files are required. All data is embedded in the app.
 
 ## Navigation
 Use the **sidebar** to navigate between sections:
-- 🛡️ Overview
-- 📊 Industry Background
-- 👥 Stakeholders & User Stories
-- 🎯 CTI Use Case
-- ⚠️ Threat Trends (tabbed: Global, Exploits, Industry Targets, Threat Actors)
-- 🏗️ Critical Assets (with risk matrix)
-- ♦ Diamond Models (APT40, Lazarus Group)
-- 📈 Interactive Dashboard (filters, charts, KPIs, threat table)
-- 💼 Intelligence Buy-In
-- 🔖 About & Team
+-  Overview
+-  Industry Background
+-  Stakeholders & User Stories
+-  CTI Use Case
+-  Threat Trends (tabbed: Global, Exploits, Industry Targets, Threat Actors)
+-  Critical Assets (with risk matrix)
+-  Diamond Models (APT40, Lazarus Group)
+-  Interactive Dashboard (filters, charts, KPIs, threat table)
+-  Intelligence Buy-In
+-  About & Team
 
 ---
 
